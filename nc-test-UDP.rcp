@@ -1,0 +1,7 @@
+$ nc -vz -u 8.8.8.8 53 
+Connection to 8.8.8.8 53 port [udp/domain] succeeded!
+$ nc -vz -u 8.8.8.8 54
+Connection to 8.8.8.8 54 port [udp/*] succeeded!
+$ nc -vz -u 8.8.8.8 59
+Connection to 8.8.8.8 59 port [udp/*] succeeded!
+$ 
